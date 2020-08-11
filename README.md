@@ -10,3 +10,4 @@ BNN论文已经上传，优化　https://github.com/itayhubara/BinaryNet.pytorch
 修正sign() 在权重和激活值错误二值化结果
 常数pad
 实现剪枝，方法同ann_pq中的剪枝方法
+(Just delete data files)
