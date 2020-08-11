@@ -1,0 +1,480 @@
+
+work/infer_dir/0_0_0073OyrFly1gbeb28c8vmj30u00u042e.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 15.0
+output min: -13.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 16.0
+output min: -16.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 18.0
+output min: -20.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 34.0
+output min: -40.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 44.0
+output min: -66.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is MaskImage
+
+work/infer_dir/0_0_8.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 13.0
+output min: -13.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 16.0
+output min: -16.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 16.0
+output min: -22.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 32.0
+output min: -38.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 40.0
+output min: -78.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is MaskImage
+
+work/infer_dir/000065.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 13.0
+output min: -13.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 16.0
+output min: -20.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 22.0
+output min: -22.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 32.0
+output min: -44.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 32.0
+output min: -46.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is NoMaskImage
+
+work/infer_dir/000033.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 11.0
+output min: -15.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 16.0
+output min: -18.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 20.0
+output min: -22.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 36.0
+output min: -30.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 56.0
+output min: -18.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is NoMaskImage
+
+work/infer_dir/000064.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 13.0
+output min: -13.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 16.0
+output min: -16.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 22.0
+output min: -20.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 38.0
+output min: -36.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 36.0
+output min: -50.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is NoMaskImage
+
+work/infer_dir/infer_mask01.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 13.0
+output min: -11.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 16.0
+output min: -16.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 18.0
+output min: -20.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 32.0
+output min: -32.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 30.0
+output min: -48.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is MaskImage
+
+work/infer_dir/u=3879284015,3445644955&fm=26&gp=0.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 15.0
+output min: -13.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 14.0
+output min: -16.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 18.0
+output min: -26.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 40.0
+output min: -38.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 76.0
+output min: -50.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is NoMaskImage
+
+work/infer_dir/000054.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 11.0
+output min: -15.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 16.0
+output min: -16.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 16.0
+output min: -22.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 40.0
+output min: -40.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 58.0
+output min: -8.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is NoMaskImage
+
+work/infer_dir/0_0_006YxAz9ly1fs0krlk3f3j30qo140jwv.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 13.0
+output min: -13.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 16.0
+output min: -14.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 16.0
+output min: -22.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 22.0
+output min: -32.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 38.0
+output min: -52.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is MaskImage
+
+work/infer_dir/0_0_663d85a4jw6dd814u9pyfj.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 13.0
+output min: -13.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 16.0
+output min: -14.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 18.0
+output min: -18.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 38.0
+output min: -36.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 64.0
+output min: -42.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is MaskImage
+
+work/infer_dir/0_0_48f333f1gy1gbskbbuciaj20m80m8wlj.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 13.0
+output min: -13.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 18.0
+output min: -18.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 18.0
+output min: -22.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 40.0
+output min: -38.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 60.0
+output min: -70.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is MaskImage
+
+work/infer_dir/000023.jpg
+input_tensor.size(): torch.Size([1, 3, 30, 30])
+output.size(): torch.Size([1, 4, 28, 28])
+output max: 15.0
+output min: -13.0
+No zero in input
+save input fm
+
+input_tensor.size(): torch.Size([1, 4, 16, 16])
+output.size(): torch.Size([1, 8, 14, 14])
+output max: 16.0
+output min: -16.0
+No zero in input
+save feature1 fm
+
+input_tensor.size(): torch.Size([1, 8, 7, 7])
+output.size(): torch.Size([1, 16, 5, 5])
+output max: 14.0
+output min: -24.0
+No zero in input
+save feature2 fm
+
+input_tensor.size(): torch.Size([1, 16, 5, 5])
+output.size(): torch.Size([1, 32, 3, 3])
+output max: 38.0
+output min: -40.0
+No zero in input
+save feature3 fm
+
+input_tensor.size(): torch.Size([1, 32, 3, 3])
+output.size(): torch.Size([1, 2, 1, 1])
+output max: 40.0
+output min: -38.0
+No zero in input
+save feature4 fm
+
+save out fm
+
+Image is NoMaskImage
